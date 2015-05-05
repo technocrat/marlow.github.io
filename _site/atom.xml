@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Marlow's Listener</title>
+ <link href="http://technocrat.githup.io//atom.xml" rel="self"/>
+ <link href="http://technocrat.githup.io/"/>
+ <updated>2015-05-04T21:20:09-07:00</updated>
+ <id>http://technocrat.githup.io</id>
+ <author>
+   <name>Richard Careaga</name>
+   <email>public@careaga.net</email>
+ </author>
+
+ 
+ <entry>
+   <title>Poke in the eye with a sharp stick</title>
+   <link href="http://technocrat.githup.io///2015/05/04/insult/"/>
+   <updated>2015-05-04T00:00:00-07:00</updated>
+   <id>http://technocrat.githup.io/2015/05/04/insult</id>
+   <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;If the intent is to insult, then is it really such a shock that people could feel insulted? &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://bit.ly/1GKKRVo&quot;&gt;Vox&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+
+</feed>
