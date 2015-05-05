@@ -4,13 +4,114 @@
  <title>Marlow's Listener</title>
  <link href="http://technocrat.githup.io//atom.xml" rel="self"/>
  <link href="http://technocrat.githup.io/"/>
- <updated>2015-05-04T21:20:09-07:00</updated>
+ <updated>2015-05-05T09:22:19-07:00</updated>
  <id>http://technocrat.githup.io</id>
  <author>
    <name>Richard Careaga</name>
    <email>public@careaga.net</email>
  </author>
 
+ 
+ <entry>
+   <title>The Seven Pillars of Data Wisdom</title>
+   <link href="http://technocrat.githup.io///2015/05/05/datawisdom/"/>
+   <updated>2015-05-05T00:00:00-07:00</updated>
+   <id>http://technocrat.githup.io/2015/05/05/datawisdom</id>
+   <content type="html">&lt;ol&gt;
+  &lt;li&gt;Statistical functions produce measures, not analyses
+    &lt;ul&gt;
+      &lt;li&gt;Being able to produce a measure or graph a function is not the same as understanding the result.&lt;/li&gt;
+      &lt;li&gt;See perennial best-seller &lt;em&gt;How to Lie with Statistics&lt;/em&gt;&lt;/li&gt;
+      &lt;li&gt;It’s even easy to fool yourself&lt;/li&gt;
+      &lt;li&gt;Don’t assume that the data at hand necessarily is all you should be looking at.&lt;/li&gt;
+      &lt;li&gt;GIGO&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Exploratory Data Analysis
+    &lt;ul&gt;
+      &lt;li&gt;What the data &lt;em&gt;can&lt;/em&gt; tell us&lt;/li&gt;
+      &lt;li&gt;Finding the right ballpark&lt;/li&gt;
+      &lt;li&gt;Quick and dirty but approximately right beats exactly wrong&lt;/li&gt;
+      &lt;li&gt;Teasing out the &lt;em&gt;right&lt;/em&gt; questions&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Confirmatory Data Analysis
+    &lt;ul&gt;
+      &lt;li&gt;What is the theory that the data are supposed to test?&lt;/li&gt;
+      &lt;li&gt;The null hypothesis and negative proof&lt;/li&gt;
+      &lt;li&gt;Finding the right statistical tool&lt;/li&gt;
+      &lt;li&gt;Interpreting the result&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Survey of Tests
+    &lt;ul&gt;
+      &lt;li&gt;Parametric&lt;/li&gt;
+      &lt;li&gt;Non-parametric&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;From Tests to Models
+    &lt;ul&gt;
+      &lt;li&gt;Parsimony as a guiding principle&lt;/li&gt;
+      &lt;li&gt;Types of predictive modelling&lt;/li&gt;
+      &lt;li&gt;Dangers of overfitting&lt;/li&gt;
+      &lt;li&gt;Sensitivity, edge cases, game changers and other qualifiers&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Reproducibility
+    &lt;ul&gt;
+      &lt;li&gt;Checklists&lt;/li&gt;
+      &lt;li&gt;Standardized reports&lt;/li&gt;
+      &lt;li&gt;Version control&lt;/li&gt;
+      &lt;li&gt;Data snapshots&lt;/li&gt;
+      &lt;li&gt;Seeding&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Presentation
+    &lt;ul&gt;
+      &lt;li&gt;Underselling as career insurance&lt;/li&gt;
+      &lt;li&gt;Balance between bottom lines and supporting detail&lt;/li&gt;
+      &lt;li&gt;Importance of visualization&lt;/li&gt;
+      &lt;li&gt;Keeping the gory details to technical appendices&lt;/li&gt;
+      &lt;li&gt;Confronting “so what?”&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The eternal *who*?</title>
+   <link href="http://technocrat.githup.io///2015/05/04/who/"/>
+   <updated>2015-05-04T00:00:00-07:00</updated>
+   <id>http://technocrat.githup.io/2015/05/04/who</id>
+   <content type="html">&lt;p&gt;We perceive the light reflected from ten million leaves and see the pattern &lt;em&gt;trees&lt;/em&gt;. We perceive the air on our skin or the dinner in our gut and feel the pattern &lt;em&gt;me&lt;/em&gt;. But me should be &lt;em&gt;us&lt;/em&gt;, an ecosystem of bacteria and viruses to which we each are the primordial forest. Nor is industrial agriculture missing – we suppress or enhance fertility, apply pesticides and fertilizers and sprinkle fairy dust into our brains. Kill a bug, adjust pH, lower the hydraulic pressure, change the ratios of this or that to the other, we cultivate our East Eden gardens.&lt;/p&gt;
+
+&lt;p&gt;Even the atheists among us believe in a version of the soul, even if it is not immortal. Beneath the Aristotelian accident lies a Platonic essence, our very own unique DNA. But that is a twinkling screen of flashing pixelish genes, ready to express an alternative manifestation at the drop of a protein. The chicken soup of our soul simmers in a cauldron that can, unexpectedly, serve out gazpacho or pho, dishes that nourish personae which our table companions can easily distinguish, even as we ourselves cannot.&lt;/p&gt;
+
+&lt;p&gt;The eco-stews of our persons imagine themselves not only accurately to perceive, appropriately to categorize and purposefully to direct the incidents of their preparation. Dinner believes it has free will, constrained solely by personal legislation it enacts. Impinging on our own gustatory illusions are enablers to be propitiated (&lt;em&gt;forgive me, Father&lt;/em&gt; or &lt;em&gt;pleeaase&lt;/em&gt;) or coerced (if worldly). We believe that nothing happens without personal agency, God’s or luck, that bitch goddess, or men and women and the lesser animals, such as dogs and children who we drape with moral vestments.&lt;/p&gt;
+
+&lt;p&gt;Just because we impose a pattern, however, does not create an explanation, or even a meaning. Newton’s clockwork project has no scope in Planck’s probability  waves nor in our personal determinants whose calculation falls forever beyond Moore’s Law.&lt;/p&gt;
+
+&lt;p&gt;We are a result, not a cause.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Church, state and billionaires</title>
+   <link href="http://technocrat.githup.io///2015/05/04/pope/"/>
+   <updated>2015-05-04T00:00:00-07:00</updated>
+   <id>http://technocrat.githup.io/2015/05/04/pope</id>
+   <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;But this, too, was a minor threat. Langone was simply threatening to withhold money. Now, as the pope prepares a major encyclical on climate change, to be released this summer, the billionaires are spending a great deal of their money in a direct assault on him. They are calling in their chits, their kept scientists, their rigged conferences, their sycophantic beneficiaries, their bought publicists to discredit words of the pope that have not even been issued: “He would do his flock and the world a disservice by putting his moral authority behind the United Nations’ unscientific agenda on the climate,” they say. They do not know exactly what the pope is going to say in his forthcoming encyclical on preserving God’s creation, but they know what he will not say. He will not deny that the poor suffer from actions that despoil the earth. Everything he has said and done so far shows that Francis always stands for the poor.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Gary Wills&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#&quot;&gt;NYRB&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#&quot;&gt;NYRB&lt;/a&gt;: http://bit.ly/1I6vdI0&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Poke in the eye with a sharp stick</title>
@@ -23,6 +124,48 @@
 
 &lt;p&gt;&lt;a href=&quot;http://bit.ly/1GKKRVo&quot;&gt;Vox&lt;/a&gt;&lt;/p&gt;
 
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Brave New World</title>
+   <link href="http://technocrat.githup.io///2015/05/04/git-me/"/>
+   <updated>2015-05-04T00:00:00-07:00</updated>
+   <id>http://technocrat.githup.io/2015/05/04/git-me</id>
+   <content type="html">&lt;p&gt;Marlow has been blogging going on a score years, first on an SGI Indy and a fractional T-1, then a virtual server. Such tedious overhead. Aristophenes be damned! Onto the cloud!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>It can never be just one lie</title>
+   <link href="http://technocrat.githup.io///2015/01/04/beliefs/"/>
+   <updated>2015-01-04T00:00:00-08:00</updated>
+   <id>http://technocrat.githup.io/2015/01/04/beliefs</id>
+   <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;unless you have an indefinitely extensible repertoire of ways to use your candidate belief (if that is what it is) in different contexts, it is not a belief in any remotely recognizable sense.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Daniel Dennett, &lt;em&gt;Intuition Pumps and Other Tools for Thinking&lt;/em&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Reynold's Number</title>
+   <link href="http://technocrat.githup.io///2013/01/28/poem/"/>
+   <updated>2013-01-28T00:00:00-08:00</updated>
+   <id>http://technocrat.githup.io/2013/01/28/poem</id>
+   <content type="html">&lt;p&gt;I have no quarrel with time.&lt;br /&gt;
+I float, flow, will sink, not sync.&lt;br /&gt;
+Time herself has the indifference&lt;br /&gt;
+Of a schoolboy’s secret crush,&lt;br /&gt;
+We stand invisible in suspense&lt;br /&gt;
+That perhaps the usual rules&lt;br /&gt;
+Will be suspended, in our case,&lt;br /&gt;
+And the surprise will be more time,&lt;br /&gt;
+Time long after we weary of it&lt;br /&gt;
+As we wearied of childhood and&lt;br /&gt;
+Its fabled happiness of endless&lt;br /&gt;
+August cut off from recess.  &lt;/p&gt;
 </content>
  </entry>
  
