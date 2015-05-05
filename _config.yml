@@ -8,7 +8,7 @@ relative_permalinks: true
 title:               Marlow's Listener
 tagline:             not having to wait until you can decently interrupt
 url:                 http://technocrat.githup.io
-paginate:            3
+paginate:            10
 baseurl:             ""
 
 # Assets
