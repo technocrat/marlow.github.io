@@ -4,7 +4,7 @@
  <title>Marlow's Listener</title>
  <link href="http://technocrat.githup.io//atom.xml" rel="self"/>
  <link href="http://technocrat.githup.io/"/>
- <updated>2015-05-05T22:56:11-07:00</updated>
+ <updated>2015-05-05T23:00:14-07:00</updated>
  <id>http://technocrat.githup.io</id>
  <author>
    <name>Richard Careaga</name>
@@ -163,7 +163,7 @@ print(there)
 
 &lt;p&gt;&lt;a href=&quot;http://www.wsj.com/articles/aging-baby-boomers-bring-drug-habits-into-middle-age-1426469057&quot;&gt;The Wall Street Journal&lt;/a&gt; (2015-03-16) (&lt;em&gt;paywalled&lt;/em&gt;) by &lt;a href=&quot;http://twitter.com/zushaelinson&quot;&gt;Zusha Elinson&lt;/a&gt;, quoted by the &lt;a href=&quot;http://goo.gl/RjWvMu&quot;&gt;American Pharmacists Association&lt;/a&gt;. This &lt;a href=&quot;http://goo.gl/C1dQEk&quot;&gt;graphic&lt;/a&gt; (reproduced below) from the article illustrates the claims made in the headline and extract.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://s3-us-west-2.amazonaws.com/careaga/2015-05-05-boomers1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://s3-us-west-2.amazonaws.com/careaga/2015-05-05-boomers1.png&quot; alt=&quot;&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;stirring-the-teacup-to-make-a-tempest&quot;&gt;Stirring the Teacup to Make a Tempest&lt;/h2&gt;
 
@@ -175,11 +175,11 @@ print(there)
 
 &lt;p&gt;Let’s begin with the claim in the graphic that &lt;em&gt;the rate for drug arrests for older adults (45-64) has increased dramatically as boomers have aged&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://s3-us-west-2.amazonaws.com/careaga/2015-05-05-boomers2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://s3-us-west-2.amazonaws.com/careaga/2015-05-05-boomers2.png&quot; alt=&quot;&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Compared to What?&lt;/em&gt; and &lt;em&gt;What Was Happening?&lt;/em&gt; are two unanswered questions. From the &lt;a href=&quot;http://www.bjs.gov/content/pub/pdf/aus9010.pdf&quot;&gt;Bureau of Justice Statistics&lt;/a&gt; we have answers.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://s3-us-west-2.amazonaws.com/careaga/2015-05-05-boomers3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://s3-us-west-2.amazonaws.com/careaga/2015-05-05-boomers3.png&quot; alt=&quot;&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;First, the rates of drug arrests for &lt;strong&gt;every&lt;/strong&gt; age group went up&lt;/p&gt;
 
@@ -201,7 +201,7 @@ print(there)
 
 &lt;p&gt;Boomers were druggies in their senior years of high school.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://s3-us-west-2.amazonaws.com/careaga/2015-05-05-boomers4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://s3-us-west-2.amazonaws.com/careaga/2015-05-05-boomers4.png&quot; alt=&quot;&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The cited source&lt;/p&gt;
 
@@ -219,34 +219,38 @@ print(there)
 
 &lt;p&gt;The &lt;a href=&quot;http://www.samhsa.gov/data/sites/default/files/NSDUHresultsPDFWHTML2013/Web/NSDUHresults2013.pdf&quot;&gt;Substance Abuse and Mental Health Services Administration&lt;/a&gt; gives this view&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://s3-us-west-2.amazonaws.com/careaga/2015-05-05-boomers5.png&quot; alt=&quot;&quot; /&gt;
-Unsurprisingly, drug use goes down with age. There is a story about the difference between boomers and their immediate precedessors, but the story’s illustration points us toward the distant past&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://s3-us-west-2.amazonaws.com/careaga/2015-05-05-boomers5.png&quot; alt=&quot;&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://s3-us-west-2.amazonaws.com/careaga/2015-05-05-boomers6.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Unsurprisingly, drug use goes down with age. There is a story about the difference between boomers and their immediate precedessors, but the story’s illustration points us toward the distant past&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://s3-us-west-2.amazonaws.com/careaga/2015-05-05-boomers6.png&quot; alt=&quot;&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;to show boomers as &lt;em&gt;a generation with a prediliction for drugs.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;A better question is &lt;strong&gt;what’s happening now?&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://s3-us-west-2.amazonaws.com/careaga/2015-05-05-boomers7.png&quot; alt=&quot;&quot; /&gt;
-&lt;a href=&quot;http://1.usa.gov/1ckNwOi&quot;&gt;2012 National Survey on Drug Use and Health&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://s3-us-west-2.amazonaws.com/careaga/2015-05-05-boomers7.png&quot; alt=&quot;&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://1.usa.gov/1ckNwOi&quot;&gt;2012 National Survey on Drug Use and Health&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Boomers toke. Younger boomers toke more than older boomers. Leading edge boomers were fairly steady in their 2002-2012 intake. &lt;em&gt;And guess who’s playing catch-up?&lt;/em&gt; The immediate pre-boomers. (In the single digits, in all cases.)&lt;/p&gt;
 
 &lt;p&gt;From the same source&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://s3-us-west-2.amazonaws.com/careaga/2015-05-05-boomers8.png&quot; alt=&quot;&quot; /&gt;
-Nonmedical use of prescription drugs (basically painkillers and seditives) show a similar pattern, with the leading edge boomers converging on their slightly older cousins.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://s3-us-west-2.amazonaws.com/careaga/2015-05-05-boomers8.png&quot; alt=&quot;&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Nonmedical use of prescription drugs (basically painkillers and seditives) show a similar pattern, with the leading edge boomers converging on their slightly older cousins.&lt;/p&gt;
 
 &lt;p&gt;Cocaine, heroin, hallucigens and inhalents are also covered, but account for very little of the total usage of illicit drugs.&lt;/p&gt;
 
 &lt;h2 id=&quot;buckets-got-a-hole-in-it&quot;&gt;Bucket’s Got a Hole in It&lt;/h2&gt;
 &lt;p&gt;The summary and graphic in the story give the most prominence to a sharp rise in drug overdose rates for the 45-64 year old group.
-&lt;img src=&quot;https://s3-us-west-2.amazonaws.com/careaga/2015-05-05-boomers9.png&quot; alt=&quot;&quot; /&gt;
-The first thing to notice is the use of overlapping categories: the red line for 45-64 and the black line for 55-74. Why? Cynically, it looks as if the tenor of the presentation is that whenever boomers join a line, rates shoot up. But if you look at the end points for the red and orange lines, there is no difference (less than 0.01 per 100,000) between the all-boomer and no-boomer groups. Also note that the boomers in the 70s had far lower OD rates than young adults since 2000.&lt;/p&gt;
+&lt;img src=&quot;https://s3-us-west-2.amazonaws.com/careaga/2015-05-05-boomers9.png&quot; alt=&quot;&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The first thing to notice is the use of overlapping categories: the red line for 45-64 and the black line for 55-74. Why? Cynically, it looks as if the tenor of the presentation is that whenever boomers join a line, rates shoot up. But if you look at the end points for the red and orange lines, there is no difference (less than 0.01 per 100,000) between the all-boomer and no-boomer groups. Also note that the boomers in the 70s had far lower OD rates than young adults since 2000.&lt;/p&gt;
 
 &lt;p&gt;Once more, there is more useful data from the same agency as the article cites. &lt;a href=&quot;http://1.usa.gov/1ckNUfO&quot;&gt;Chen, Hedegaard and Warner&lt;/a&gt; provide this view into the important category of opioid overdose deaths
-&lt;img src=&quot;https://s3-us-west-2.amazonaws.com/careaga/2015-05-05-boomers10.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;https://s3-us-west-2.amazonaws.com/careaga/2015-05-05-boomers10.png&quot; alt=&quot;&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The other class of drugs involved in overdose deaths is benzodiazapens (Valium(TM) and its decscendants), usually in conjunction with opioids. Although cocaine and heroin overdoses can lead to death, the low usage in the boomer age group is expected to be reflected in relatively low numbers of deaths, as well.&lt;/p&gt;
 
