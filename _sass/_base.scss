@@ -76,3 +76,9 @@ tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
+// center the image thusly: ![The shocking headline](https://s3-us-west-2.amazonaws.com/careaga/2015-05-05-boomers0.png){: .center-image }
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
