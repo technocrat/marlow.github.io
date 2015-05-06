@@ -6,7 +6,7 @@ relative_permalinks: true
 
 # Setup
 title:               Marlow's Listener
-tagline:             not having to wait until you can decently interrupt
+tagline:             not having to think about what you are going to say when you can decently interrupt
 url:                 http://technocrat.githup.io
 paginate:            10
 baseurl:             ""
