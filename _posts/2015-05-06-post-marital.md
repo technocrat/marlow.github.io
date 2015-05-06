@@ -1,5 +1,5 @@
 layout: post
-title: Post-marital America -- All politics is personal, very personal
+title: "Post-marital America -- All politics is personal, very personal"
 tags: politics
 ---
 
