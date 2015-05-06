@@ -10,7 +10,7 @@
 
   <title>
     
-      It can never be just one lie &middot; Marlow's Listener
+      Parse date string &middot; Marlow's Listener
     
   </title>
 
@@ -38,28 +38,35 @@
 
       <main>
         <article class="post">
-  <h1 class="post-title">It can never be just one lie</h1>
-  <time datetime="2015-01-04T00:00:00-08:00" class="post-date">04 Jan 2015</time>
-  <blockquote>
-  <p>unless you have an indefinitely extensible repertoire of ways to use your candidate belief (if that is what it is) in different contexts, it is not a belief in any remotely recognizable sense.</p>
-</blockquote>
+  <h1 class="post-title">Parse date string</h1>
+  <time datetime="2015-05-05T00:00:00-07:00" class="post-date">05 May 2015</time>
+  <pre><code># timezone.py
+# exemplar
+from datetime import datetime
+from dateutil.parser import parse
+from dateutil import tz
 
-<p>Daniel Dennett, <em>Intuition Pumps and Other Tools for Thinking</em></p>
+# The input isn't something that Python recognizes as a date
+s = "Mon Aug 15 21:17:14 GMT 2011"     #start off with a string
+d = parse(s)                           #convert it to a datetime object
+
+# parse doesn't capture timezone information, so we need to specify
+GMT = tz.gettz('UTC')                  #label for GMT
+Beijing = tz.gettz('Asia/Shanghai')    #label for localtime
+
+there = d.astimezone(GMT)              #express the datetime object in the GMT(UTC) zone
+here = d.astimezone(Beijing)           #express it local zone
+
+print(here)
+
+print(there)
+</code></pre>
 
 </article>
 
 <aside class="related">
   <h2>Related Posts</h2>
   <ul class="related-posts">
-    
-      <li>
-        <h3>
-          <a href="//2015/05/05/timezone/">
-            Parse date string
-            <small><time datetime="2015-05-05T00:00:00-07:00">05 May 2015</time></small>
-          </a>
-        </h3>
-      </li>
     
       <li>
         <h3>
@@ -74,6 +81,15 @@
         <h3>
           <a href="//2015/05/05/jim-crow/">
             Land of the Free
+            <small><time datetime="2015-05-05T00:00:00-07:00">05 May 2015</time></small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="//2015/05/05/gopfield/">
+            Bread and Circuses
             <small><time datetime="2015-05-05T00:00:00-07:00">05 May 2015</time></small>
           </a>
         </h3>
