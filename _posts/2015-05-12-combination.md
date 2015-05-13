@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Combination of know items, taken n at a time
+title: Combination of k items, taken n at a time
 tags: Haskell, Python
 ---
 Very functional
