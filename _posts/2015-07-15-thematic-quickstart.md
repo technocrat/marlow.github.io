@@ -111,6 +111,7 @@ Hadley Wickham and Francois Romain. [dplyr]
 	Wisconsin,55,WI
 	Wyoming,56,WY
 </pre>
+
 ## License
 
 Copyright (c) 2015, Richard Careaga
