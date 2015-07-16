@@ -42,7 +42,7 @@ I am unable to answer questions relating to the use of this code under Windows.
 
 * [Population U.S. Census]
 * [Cartographic Boundary File U.S. Census] 
-* [FIPS Codes for the States and the District of Columbia U.S. Census]
+* [U.S. Census FIPS]
 
 ### R Packages
 * Baptiste Auguie (2012). gridExtra: functions in Grid graphics. R package version 0.9.1. [gridExtra]
@@ -263,7 +263,7 @@ pop_source <- links_Shorten("https://www.census.gov/popest/data/national/totals/
 [cb_2014_us_state_5m.zip]: http://www2.census.gov/geo/tiger/GENZ2014/shp/cb_2014_us_state_5m.zip
 [classInt]: http://CRAN.R-project.org/package=classInt
 [dplyr]: https://github.com/hadley/dplyr
-[FIPS Codes for the States and the District of Columnia U.S. Census]: https://www.census.gov/geo/reference/ansi_statetables.html
+[U.S. Census FIPS Codes]: https://www.census.gov/geo/reference/ansi_statetables.html
 [ggmap]: http://journal.r-project.org/archive/2013-1/kahle-wickham.pdf
 [ggplot2]: http://had.co.nz/ggplot2/book
 [grid]: http://r-project.org
