@@ -3,33 +3,43 @@ layout: post
 title: Thematic Mapping in R without the Tears
 tags: journalism
 --- 
-# Thematic Mapping in R without the Tears
+
 By: Richard Careaga <img src='https://careaga.s3.amazonaws.com/technocrat.png' alt='logo' style='height: 25px;'/> 2015-07-15
-# Quick Start Edition[^in prep]
+
+# Quick Start Edition
+
 ## Prerequisites
+
 * A current, working installation of [R] 
 * Ability to install required packages
 * Basic familiarity with [R]
 * Understanding of directory paths
+
 ## What you'll see
+
 * The default basemap of the contiguous 48 states and the District of Columbia
- ![](https://careaga.s3.amazonaws.com/2015-07-15-default.png){: .center-image }
-* The same map with an uncolored background  ![](https://careaga.s3.amazonaws.com/2015-07-15-white.png){: .center-image }
+ ![](https://careaga.s3.amazonaws.com/2015-07-15-default.png)
+* The same map with an uncolored background  ![](https://careaga.s3.amazonaws.com/2015-07-15-white.png)
 * The basemap with states shown by population with the default continuous scale and color scheme
- ![](https://careaga.s3.amazonaws.com/2015-07-15-pop.default.png){: .center-image }
- * The basemap in four alternative discrete color scales with a neutral palette and polyconic projection
-  ![](https://careaga.s3.amazonaws.com/2015-07-15-scaling.png){: .center-image }
+ ![](https://careaga.s3.amazonaws.com/2015-07-15-pop.default.png)
+* The basemap in four alternative discrete color scales with a neutral palette and polyconic projection
+  ![](https://careaga.s3.amazonaws.com/2015-07-15-scaling.png)
 
 ## Next up
+
 I will be preparing a detailed explanation of how this works and recommendations for deciding when this type of presentation works well and what data transforms to consider.
 
 ## Disclaimer
 I am unable to answer questions relating to the use of this code under Windows.
+
 ## Credits
+
 ### Algorithms
+
 [Interval scales]
 
 ### Data
+
 * [Population U.S. Census]
 * [Cartographic Boundary File U.S. Census] 
 * [FIPS Codes for the States and the District of Columbia U.S. Census]
@@ -48,6 +58,7 @@ Hadley Wickham and Francois Romain. [dplyr]
 ## Data
 * Cartographic Boundary File: Download latest [cartographic boundary file for states] from the U.S Census, currently [cb_2014_us_state_5m.zip]
 * [State postal codes], copy to csv, as follows:
+
 	Alabama,01,AL
 	Alaska,02,AK
 	Arizona,04,AZ
@@ -99,7 +110,9 @@ Hadley Wickham and Francois Romain. [dplyr]
 	West Virginia,54,WV
 	Wisconsin,55,WI
 	Wyoming,56,WY
+	
 ## License
+
 Copyright (c) 2015, Richard Careaga
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
@@ -109,6 +122,7 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## R Code
+
 ```R
 # 
 x <- c("dplyr", "ggmap", "ggplot2", "RColorBrewer", "rgdal", "classInt", "RCurl",  "grid","gridExtra")
@@ -242,7 +256,7 @@ rbitlyApi("YOUR_KEY_HERE")
 pop_source <- links_Shorten("https://www.census.gov/popest/data/national/totals/2014/files/NST_EST2014_ALLDATA.csv")$url
 -->
 
-[^in prep]: A detailed walk-through is being prepared. 
+
 
 [cartographic boundary file for states]: http://www.census.gov/geo/maps-data/data/cbf/cbf_state.html
 [Cartographic Boundary File U.S. Census]: http://1.usa.gov/1IZgFLV
