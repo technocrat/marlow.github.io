@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thematic Mapping in R without the Tears
-tags: journalism
+tags: R
 --- 
 
 By: Richard Careaga <img src='https://careaga.s3.amazonaws.com/technocrat.png' alt='logo' style='height: 25px;'/> 2015-07-15
