@@ -58,7 +58,7 @@ Hadley Wickham and Francois Romain. [dplyr]
 ## Data
 * Cartographic Boundary File: Download latest [cartographic boundary file for states] from the U.S Census, currently [cb_2014_us_state_5m.zip]
 * [State postal codes], copy to csv, as follows:
-
+<pre>
 	Alabama,01,AL
 	Alaska,02,AK
 	Arizona,04,AZ
@@ -110,7 +110,7 @@ Hadley Wickham and Francois Romain. [dplyr]
 	West Virginia,54,WV
 	Wisconsin,55,WI
 	Wyoming,56,WY
-	
+</pre>
 ## License
 
 Copyright (c) 2015, Richard Careaga
