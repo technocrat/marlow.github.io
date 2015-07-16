@@ -124,7 +124,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## R Code
 
-<code r>
+<pre>
+
 x <- c("dplyr", "ggmap", "ggplot2", "RColorBrewer", "rgdal", "classInt", "RCurl",  "grid","gridExtra")
 lapply(x, library, character.only = TRUE)
 
@@ -249,7 +250,7 @@ n = b + geom_polygon(aes(x=long, y=lat, group=group, fill=pop.natural), color = 
 n = n + plain_theme + no_ylab + no_xlab + coord_map("polyconic") + scale_fill_brewer(palette = "YlOrBr") + ggtitle(my_title)
 
 grid.arrange(e, q, s, n, ncol = 2, main = "Population Maps of 48 Contiguous States and District of Columbia\nEffect of Scaling (with neutral palette)")
-</code>
+</pre>
 
 
 <!---
