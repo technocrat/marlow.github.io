@@ -124,7 +124,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## R Code
 
-
+See the [gist]
 
 
 <!---
@@ -150,3 +150,4 @@ pop_source <- links_Shorten("https://www.census.gov/popest/data/national/totals/
 [RCurl]: http://CRAN.R-project.org/package=RCurl
 [rgdal]: http://CRAN.R-project.org/package=rgdal
 [State postal codes]:  https://www.census.gov/geo/reference/ansi_statetables.html
+[gist]: https://gist.github.com/technocrat/ddf573cd461790d0c026#file-thematic
