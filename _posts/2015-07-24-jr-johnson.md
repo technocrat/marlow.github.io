@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sothern heritage needs no stars and bars
+title: Southern heritage needs no stars and bars
 tags: modern times
 ---
 
