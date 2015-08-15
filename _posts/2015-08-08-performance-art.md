@@ -1,4 +1,4 @@
- ---
+---
 layout: post
 title:. Everyone is a critic
 tags: psychology
