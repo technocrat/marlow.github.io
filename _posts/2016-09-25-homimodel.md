@@ -19,7 +19,8 @@ Police involved homicides in 2015 were strongly correlated with all 2014 homicid
 	Multiple R-squared:  0.723, Adjusted R-squared:  0.7114 
 	F-statistic: 62.63 on 2 and 48 DF,  p-value: 4.176e-14
 
- ![]http://careaga.s3.amazonaws.com/2016-09-25-RplotModel.png)
+ ![](http://careaga.s3.amazonaws.com/2016-09-25-RplotModel.png)
     
+   
    
    
