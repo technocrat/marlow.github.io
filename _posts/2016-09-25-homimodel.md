@@ -4,7 +4,7 @@ title: Correlates of police involved homicides
 tags: politics
 --- 
 
-Police involved homicides in 2015 were strongly correlated with all 2014 homicides and the log of the state's estimated population in 2015.
+Police involved homicides in 2015 were strongly correlated with all 2014 homicides and the log of the state's estimated population in 2015. (Remember, please correlation isn't causation.)
 
 	Call:
 	lm(formula = homi2015$n ~ log(pop) + homi2014$n)
