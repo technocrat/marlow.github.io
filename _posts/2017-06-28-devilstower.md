@@ -14,7 +14,7 @@ I left my hosts, the wonderful Swindell family (Bryan, Cam, Sawyer and Neva)
 
 who welcomed me into their busy lives for a long weekend. Heartfelt thanks, again and over.
 
-*Apologies for misorientation of pics; new software since last postings*
+*Apologies for misorientation of pics; new software since last postings, I'll try to fix tonight*
 
 Before my trip I finished a [book], *The Heart of Everything That Is: The Untold Story of Red Cloud, An American Legend* that relates the mostly forgotten triumph of Native American arms against U.S. Army regular troops at Fort Kearny, just south of Sheriden on the Bozeman Trail.
 
