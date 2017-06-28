@@ -12,7 +12,6 @@ I left my hosts, the wonderful Swindell family (Bryan, Cam, Sawyer and Neva)
 
 ![](htpps://s3-us-west-2.amazonaws.com/tuva/2017-06-28-Swindells.jpg)
 
-
 who welcomed me into their busy lives for a long weekend. Heartfelt thanks, again and over.
 
 Before my trip I finished a [book], *The Heart of Everything That Is: The Untold Story of Red Cloud, An American Legend* that relates the mostly forgotten triumph of Native American arms against U.S. Army regular troops at Fort Kearny, just south of Sheriden on the Bozeman Trail.
@@ -79,13 +78,7 @@ Before sundown, I was in Rapid City, back in T-Mobile land with no domestic data
 
 Travelling without a set itinerary has its disadvantages (tour dates for the Minuteman missle silo are booked through July 20), but it removes a surpising amount of time-based anxiety. We'll see how this approach holds up after I see the Badlands and head off for KC and points south and west.
 
-
-
-
-
-
-
-
+Boredom can be good for you, I guess, coasties.
 
 
 [book]: htpps://amzn.to/2tphXPR
