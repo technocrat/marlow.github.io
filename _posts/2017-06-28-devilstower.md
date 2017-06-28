@@ -34,36 +34,40 @@ It was a relief to leave the interstate and head back north and east toward the 
 
 I was headed toward Devil's Tower and spotted it from 10 miles looking like a giant shark fin in a rough sea, sort of a mashup of *Jaws* and *Close Encounters of the Third Kind.* I didn't see any mashed potatoes, though (cinema injoke).
 
-The hard rock sthtpps://s3-us-west-2.amazonaws.com/tuva/tuva/2017-06-28-Unadorned.jpgicks its thick thumb above the surrounding sandstone and shale.
+The hard rock 
+
+sticks its thick thumb above the surrounding sandstone and shale.
+
 ![](https://s3-us-west-2.amazonaws.com/tuva/2017-06-28-Unadorned.jpg)
+
 After chatting up a geology grad high school teacher working a summer job as a ranger and buying some sunscreen, I set off to circumambulate the rock along the Red Rock Trail, so named because 
-htpps://s3-us-west-2.amazonaws.com/tuva/tuva/2017-06-28-Unadorned.jpg
+
 ![](htpps://s3-us-west-2.amazonaws.com/tuva/2016-06-28-RedRock.jpg)
 
 It's about a 5 km walk. I went counter clockwise, losing about 500 feet in elevation and having closely to watch my feet from tripping (a contemporary cousin on my father's side loved to hike around Colorado Springs; he recently fell into a ravine on a hike and died). 
 
 Besides the wonder of the rock itself, there were a few curiosities: boulders here and there that had fallen off the column and bounced hard enough to land several thousand feet away, what I call Picnic Rock (another injoke)
-htpps://s3-us-west-2.amazonaws.com/tuva/tuva/2017-06-28-Unadorned.jpg
+
 ![](htpps://s3-us-west-2.amazonaws.com/tuva/2016-06-28-PicnicRock.jpg)
 
 colors on exposed rock
-htpps://s3-us-west-2.amazonaws.com/tuva/tuva/2017-06-28-Unadorned.jpg
+
 ![](htpps://s3-us-west-2.amazonaws.com/tuva/2016-06-28-Lichen.jpg)
 
 an overhang that looked like a leaping trout (ok, that's a stretch)
-htpps://s3-us-west-2.amazonaws.com/tuva/tuva/2017-06-28-Unadorned.jpg
+
 ![](htpps://s3-us-west-2.amazonaws.com/tuva/2016-06-28-TheTrout.jpg)
 
 but I listened to Shubert in my head until the trail started the climb back to regain the lost elevation.
 
 I got unadorned views in my 360º walk
-htpps://s3-us-west-2.amazonaws.com/tuva/tuva/2017-06-28-Unadorned.jpg
+
 ![](htpps://s3-us-west-2.amazonaws.com/tuva/2016-06-28-Unadorned.jpg)
 
 or hike, rather. It's the first real trail hiking I've done in a very long time and I pegged the tach at 170 bpm before learning to watch the redline. Whenever my pulse (thank you, Apple Watch) got near 160 bpm, I'd stop until it got back down to 140 bpm. This slowed me down, of course, but I still finished in 90 minutes. Not bad for a fat old man.
 
 Although I enjoyed the few flowers and sagebrush among the grass, I was disappointed by my failure to spot any wildlife. The National Park Gods must of heard my lament
-htpps://s3-us-west-2.amazonaws.com/tuva/tuva/2017-06-28-Unadorned.jpg
+
 ![](htpps://s3-us-west-2.amazonaws.com/tuva/2016-06-28-100proof.jpg)
 
 because suddenly I developed a third for 100 proof sour mash whiskey after seeing a stately procession across the road out of the park.
