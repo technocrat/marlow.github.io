@@ -10,7 +10,7 @@ Having labored to create a block of free time, I embarked as a Corps of Discover
 
 I left my hosts, the wonderful Swindell family (Bryan, Cam, Sawyer and Neva)
 
-![](https://careaga.s3.amazonaws.com/2016-06-28-Swindells.jpg)
+![](https://tuva.s3.amazonaws.com/2016-06-28-Swindells.jpg)
 
 who welcomed me into their busy lives for a long weekend. Heartfelt thanks, again and over.
 
@@ -20,7 +20,7 @@ As often happens when reading history, translating placenames to modern location
 
 Also, when reading military history, I find myself imagining sites as far larger and at greater distances than they actually are. I forget that horses can only run up slopes that more resemble gentle hills than craggy peaks. Here I found a battlefield at strollable scale.
 
-![](https://careaga.s3.amazonaws.com/2016-06-28-RedCloud.jpg)
+![](https://tuva.s3.amazonaws.com/2016-06-28-RedCloud.jpg)
 
 The early summer site of the winter battle looks innocuous enough, a pleasant stroll over a gentle hill. What happened there was the army's worst defeat until Custer's Last Ego, ten years later. A column of 81 men were sent out on a punitive raid against Sioux who had killed an officer the day before. None returned.
 
@@ -35,37 +35,37 @@ It was a relief to leave the interstate and head back north and east toward the 
 I was headed toward Devil's Tower and spotted it from 10 miles looking like a giant shark fin in a rough sea, sort of a mashup of *Jaws* and *Close Encounters of the Third Kind.* I didn't see any mashed potatoes, though (cinema injoke).
 
 The hard rock sticks its thick thumb above the surrounding sandstone and shale.
-![](https://careaga.s3.amazonaws.com/2016-06-28-DevilsTower.jpg)
+![](https://tuva.s3.amazonaws.com/2016-06-28-DevilsTower.jpg)
 
 After chatting up a geology grad high school teacher working a summer job as a ranger and buying some sunscreen, I set off to circumambulate the rock along the Red Rock Trail, so named because 
 
-![](https://careaga.s3.amazonaws.com/2016-06-28-RedRock.jpg)
+![](https://tuva.s3.amazonaws.com/2016-06-28-RedRock.jpg)
 
 It's about a 5 km walk. I went counter clockwise, losing about 500 feet in elevation and having closely to watch my feet from tripping (a contemporary cousin on my father's side loved to hike around Colorado Springs; he recently fell into a ravine on a hike and died). 
 
 Besides the wonder of the rock itself, there were a few curiosities: boulders here and there that had fallen off the column and bounced hard enough to land several thousand feet away, what I call Picnic Rock (another injoke)
 
-![](https://careaga.s3.amazonaws.com/2016-06-28-PicnicRock.jpg)
+![](https://tuva.s3.amazonaws.com/2016-06-28-PicnicRock.jpg)
 
 colors on exposed rock
 
-![](https://careaga.s3.amazonaws.com/2016-06-28-Lichen.jpg)
+![](https://tuva.s3.amazonaws.com/2016-06-28-Lichen.jpg)
 
 an overhang that looked like a leaping trout (ok, that's a stretch)
 
-![](https://careaga.s3.amazonaws.com/2016-06-28-TheTrout.jpg)
+![](https://tuva.s3.amazonaws.com/2016-06-28-TheTrout.jpg)
 
 but I listened to Shubert in my head until the trail started the climb back to regain the lost elevation.
 
 I got unadorned views in my 360º walk
 
-![](https://careaga.s3.amazonaws.com/2016-06-28-Unadorned.jpg)
+![](https://tuva.s3.amazonaws.com/2016-06-28-Unadorned.jpg)
 
 or hike, rather. It's the first real trail hiking I've done in a very long time and I pegged the tach at 170 bpm before learning to watch the redline. Whenever my pulse (thank you, Apple Watch) got near 160 bpm, I'd stop until it got back down to 140 bpm. This slowed me down, of course, but I still finished in 90 minutes. Not bad for a fat old man.
 
 Although I enjoyed the few flowers and sagebrush among the grass, I was disappointed by my failure to spot any wildlife. The National Park Gods must of heard my lament
 
-![](https://careaga.s3.amazonaws.com/2016-06-28-100proof.jpg)
+![](https://tuva.s3.amazonaws.com/2016-06-28-100proof.jpg)
 
 because suddenly I developed a third for 100 proof sour mash whiskey after seeing a stately procession across the road out of the park.
 
@@ -85,5 +85,5 @@ Travelling without a set itinerary has its disadvantages (tour dates for the Min
 
 
 
-[recipe]: http://careaga.s3.amazonaws.com/2015-11-11-filters.pdf
+[recipe]: http://tuva.s3.amazonaws.com/2015-11-11-filters.pdf
 [book]: http://amzn.to/2tphXPR
