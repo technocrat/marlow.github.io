@@ -9,9 +9,8 @@ One of the justifiable gripes of the intracoastal population is the sneering ref
 Having labored to create a block of free time, I embarked as a Corps of Discovery of one to drive solo over a good chunk of it. I'll begin *in media res* with Sheriden, WY.
 
 I left my hosts, the wonderful Swindell family (Bryan, Cam, Sawyer and Neva)
-htpps://s3-us-west-2.amazonaws.com/tuva/tuva/2017-06-28-Unadorned.jpg
-![](htpps://s3-us-west-2.amazonaws.com/tuva/2016-06-28-Swindells.jpg)
 
+![](htpps://s3-us-west-2.amazonaws.com/tuva/2016-06-28-Swindells.jpg)
 
 who welcomed me into their busy lives for a long weekend. Heartfelt thanks, again and over.
 
@@ -20,7 +19,7 @@ Before my trip I finished a [book], *The Heart of Everything That Is: The Untold
 As often happens when reading history, translating placenames to modern locations is very helpful, but we (I) are too lazy to do it. I was delighted to see signs just out of town directing me to the state park at the site of the action.
 
 Also, when reading military history, I find myself imagining sites as far larger and at greater distances than they actually are. I forget that horses can only run up slopes that more resemble gentle hills than craggy peaks. Here I found a battlefield at strollable scale.
-htpps://s3-us-west-2.amazonaws.com/tuva/tuva/2017-06-28-Unadorned.jpg
+
 ![](htpps://s3-us-west-2.amazonaws.com/tuva/2016-06-28-RedCloud.jpg)
 
 The early summer site of the winter battle looks innocuous enough, a pleasant stroll over a gentle hill. What happened there was the army's worst defeat until Custer's Last Ego, ten years later. A column of 81 men were sent out on a punitive raid against Sioux who had killed an officer the day before. None returned.
@@ -36,8 +35,7 @@ It was a relief to leave the interstate and head back north and east toward the 
 I was headed toward Devil's Tower and spotted it from 10 miles looking like a giant shark fin in a rough sea, sort of a mashup of *Jaws* and *Close Encounters of the Third Kind.* I didn't see any mashed potatoes, though (cinema injoke).
 
 The hard rock sthtpps://s3-us-west-2.amazonaws.com/tuva/tuva/2017-06-28-Unadorned.jpgicks its thick thumb above the surrounding sandstone and shale.
-![](htpps://s3-us-west-2.amazonaws.com/tuva/2016-06-28-DevilsTower.jpg)
-
+![](https://s3-us-west-2.amazonaws.com/tuva/2017-06-28-Unadorned.jpg)
 After chatting up a geology grad high school teacher working a summer job as a ranger and buying some sunscreen, I set off to circumambulate the rock along the Red Rock Trail, so named because 
 htpps://s3-us-west-2.amazonaws.com/tuva/tuva/2017-06-28-Unadorned.jpg
 ![](htpps://s3-us-west-2.amazonaws.com/tuva/2016-06-28-RedRock.jpg)
