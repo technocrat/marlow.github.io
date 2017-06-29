@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Flyover Up Close
+title: Flyover Up Close (picture orientation fixed and new anecdote)
 tags: #tour
 --- 
 
@@ -14,7 +14,7 @@ I left my hosts, the wonderful Swindell family (Bryan, Cam, Sawyer and Neva)
 
 who welcomed me into their busy lives for a long weekend. Heartfelt thanks, again and over.
 
-*Apologies for misorientation of pics; new software since last postings, I'll try to fix tonight*
+*Apologies for the prior misorientation of pics; fascinating issue with an exif orientation field, fixed by converting everything from jpg to png, for those who care*
 
 Before my trip I finished a [book], *The Heart of Everything That Is: The Untold Story of Red Cloud, An American Legend* that relates the mostly forgotten triumph of Native American arms against U.S. Army regular troops at Fort Kearny, just south of Sheriden on the Bozeman Trail.
 
@@ -38,9 +38,10 @@ I was headed toward Devil's Tower and spotted it from 10 miles looking like a gi
 
 The hard rock 
 
+![](https://s3-us-west-2.amazonaws.com/tuva/2017-06-28-Unadorned.png)
+
 sticks its thick thumb above the surrounding sandstone and shale.
 
-![](https://s3-us-west-2.amazonaws.com/tuva/2017-06-28-Unadorned.png)
 
 After chatting up a geology grad high school teacher working a summer job as a ranger and buying some sunscreen, I set off to circumambulate the rock along the Red Rock Trail, so named because 
 
@@ -75,6 +76,8 @@ Although I enjoyed the few flowers and sagebrush among the grass, I was disappoi
 because suddenly I developed a third for 100 proof sour mash whiskey after seeing a stately procession across the road out of the park.
 
 By then I was feeling a little peckish and headed to the nearest town looking for a bite. Not promising, so I headed to Rapid City, skirting the Black Hills. You pass a lot of fresh baled hay, but see few cattle or horses. 
+
+I was musing about the superstition around the devil, when a white Ford F250 with red trimmings and the dread name **Halliburton**. I had the Devil incarnate by the tail! It took me 20 miles to pass and put Satan behind me. Turns out they have a bentonite operation nearby, used for drilling mud to *frack the hell out of the landscape and further screw the coalies.*
 
 Before sundown, I was in Rapid City, back in T-Mobile land with no domestic data roaming restrictions (who knew?). I couldn't find a brew pub that sounded promising and settled for acceptable Mexican downtown, found a room at a generic chain and slept like Rip V. Winkle, but awoke afreshed and found this Starbucks in a mall for breakers and my usual quad iced espresso. 
 
