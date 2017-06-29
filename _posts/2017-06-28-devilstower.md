@@ -10,7 +10,7 @@ Having labored to create a block of free time, I embarked as a Corps of Discover
 
 I left my hosts, the wonderful Swindell family (Bryan, Cam, Sawyer and Neva)
 
-![](https://s3-us-west-2.amazonaws.com/tuva/2017-06-28-Swindells.jpg)
+![](https://s3-us-west-2.amazonaws.com/tuva/2017-06-28-Swindells.png)
 
 who welcomed me into their busy lives for a long weekend. Heartfelt thanks, again and over.
 
@@ -40,37 +40,37 @@ The hard rock
 
 sticks its thick thumb above the surrounding sandstone and shale.
 
-![](https://s3-us-west-2.amazonaws.com/tuva/2017-06-28-Unadorned.jpg)
+![](https://s3-us-west-2.amazonaws.com/tuva/2017-06-28-Unadorned.png)
 
 After chatting up a geology grad high school teacher working a summer job as a ranger and buying some sunscreen, I set off to circumambulate the rock along the Red Rock Trail, so named because 
 
-![](https://s3-us-west-2.amazonaws.com/tuva/2017-06-28-RedRock.jpg)
+![](https://s3-us-west-2.amazonaws.com/tuva/2017-06-28-RedRock.png)
 
 It's about a 5 km walk. I went counter clockwise, losing about 500 feet in elevation and having closely to watch my feet from tripping (a contemporary cousin on my father's side loved to hike around Colorado Springs; he recently fell into a ravine on a hike and died). 
 
 Besides the wonder of the rock itself, there were a few curiosities: boulders here and there that had fallen off the column and bounced hard enough to land several thousand feet away, what I call Picnic Rock (another injoke)
 
-![](https://s3-us-west-2.amazonaws.com/tuva/2017-06-28-PicnicRock.jpg)
+![](https://s3-us-west-2.amazonaws.com/tuva/2017-06-28-PicnicRock.png)
 
 colors on exposed rock
 
-![](https://s3-us-west-2.amazonaws.com/tuva/2017-06-28-Lichen.jpg)
+![](https://s3-us-west-2.amazonaws.com/tuva/2017-06-28-Lichen.png)
 
 an overhang that looked like a leaping trout (ok, that's a stretch)
 
-![](https://s3-us-west-2.amazonaws.com/tuva/2017-06-28-TheTrout.jpg)
+![](https://s3-us-west-2.amazonaws.com/tuva/2017-06-28-TheTrout.png)
 
 but I listened to Shubert in my head until the trail started the climb back to regain the lost elevation.
 
 I got unadorned views in my 360º walk
 
-![](https://s3-us-west-2.amazonaws.com/tuva/2017-06-28-Unadorned.jpg)
+![](https://s3-us-west-2.amazonaws.com/tuva/2017-06-28-Unadorned.png)
 
 or hike, rather. It's the first real trail hiking I've done in a very long time and I pegged the tach at 170 bpm before learning to watch the redline. Whenever my pulse (thank you, Apple Watch) got near 160 bpm, I'd stop until it got back down to 140 bpm. This slowed me down, of course, but I still finished in 90 minutes. Not bad for a fat old man.
 
 Although I enjoyed the few flowers and sagebrush among the grass, I was disappointed by my failure to spot any wildlife. The National Park Gods must of heard my lament
 
-![](https://s3-us-west-2.amazonaws.com/tuva/2017-06-28-100proof.jpg)
+![](https://s3-us-west-2.amazonaws.com/tuva/2017-06-28-100proof.png)
 
 because suddenly I developed a third for 100 proof sour mash whiskey after seeing a stately procession across the road out of the park.
 
