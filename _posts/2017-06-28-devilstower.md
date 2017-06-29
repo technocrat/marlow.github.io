@@ -23,7 +23,7 @@ As often happens when reading history, translating placenames to modern location
 Also, when reading military history, I find myself imagining sites as far larger and at greater distances than they actually are. I forget that horses can only run up slopes that more resemble gentle hills than craggy peaks. Here I found a battlefield at strollable scale.
 
 
-<img src="https://s3-us-west-2.amazonaws.com/tuva/2017-06-28-RedCloud.jpg width="200" height="200" />
+<img src="https://s3-us-west-2.amazonaws.com/tuva/2017-06-28-RedCloud.jpg"  width="200" height="200" />
 
 The early summer site of the winter battle looks innocuous enough, a pleasant stroll over a gentle hill. What happened there was the army's worst defeat until Custer's Last Ego, ten years later. A column of 81 men were sent out on a punitive raid against Sioux who had killed an officer the day before. None returned.
 
