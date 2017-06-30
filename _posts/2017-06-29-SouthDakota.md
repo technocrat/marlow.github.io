@@ -46,12 +46,11 @@ and required three little stationary steam engines that could
 
 produce the compressed air to drive the drills to pack with dynamite.
 
-
 There's no entry fee, you just pay a concessionaire to park. There *is* however, indication of classified government involvement (YACIJ)
 
 ![](https://s3-us-west-2.amazonaws.com/tuva/2017-06-29-CloseToArea51.png)
 
-On the way in and back out is one of the largest concentration of tourist traps I have ever seen. Images can not do justice to the assault on attention. The mildest stretch is closest to the entrance
+On the way in and back out is one of the largest concentration of tourist traps I have ever seen. Images cannot do justice to the assault on attention. The mildest stretch is closest to the entrance
 
 ![](https://s3-us-west-2.amazonaws.com/tuva/2017-06-29-DQ.png)
 
