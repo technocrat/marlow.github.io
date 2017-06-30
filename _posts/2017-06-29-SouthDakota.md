@@ -38,7 +38,7 @@ The paths are broad and paved and there's something for everyone, as in this unf
 
 The spoil pile from removing 450,000 tons of rock is impressive,
 
-![](https://s3-us-west-2.amazonaws.com/tuva/2017-06-29-Spoil.png)
+![](https://s3-us-west-2.amazonaws.com/tuva/2017-06-29-SpoilSlope.png)
 
 and required three little stationary steam engines that could
 
