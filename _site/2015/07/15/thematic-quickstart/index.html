@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="UTF-8">
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    
+      Thematic Mapping in R without the Tears &middot; Marlow's Listener
+    
+  </title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/styles.css">
+
+  <!-- Icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/apple-touch-icon-precomposed.png">
+  <link rel="shortcut icon" href="/public/favicon.ico">
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/atom+xml" title="Marlow's Listener" href="/atom.xml">
+</head>
+
+
+  <body>
+
+    <div class="container content">
+      <header class="masthead">
+        <h3 class="masthead-title">
+          <a href="/" title="Home">Marlow's Listener</a>
+          <small>not having to think about what you are going to say when you can decently interrupt</small>
+        </h3>
+      </header>
+
+      <main>
+        <article class="post">
+  <h1 class="post-title">Thematic Mapping in R without the Tears</h1>
+  <time datetime="2015-07-15T00:00:00-07:00" class="post-date">15 Jul 2015</time>
+  <p>By: Richard Careaga <img src="https://careaga.s3.amazonaws.com/technocrat.png" alt="logo" style="height: 25px;" /> 2015-07-15</p>
+
+<h1 id="quick-start-edition">Quick Start Edition</h1>
+
+<h2 id="prerequisites">Prerequisites</h2>
+
+<ul>
+  <li>A current, working installation of <a href="http://rproject.org">R</a></li>
+  <li>Ability to install required packages</li>
+  <li>Basic familiarity with <a href="http://rproject.org">R</a></li>
+  <li>Understanding of directory paths</li>
+</ul>
+
+<h2 id="what-youll-see">What you’ll see</h2>
+
+<ul>
+  <li>The default basemap of the contiguous 48 states and the District of Columbia
+ <img src="https://careaga.s3.amazonaws.com/2015-07-15-default.png" alt="" /></li>
+  <li>The same map with an uncolored background  <img src="https://careaga.s3.amazonaws.com/2015-07-15-white.png" alt="" /></li>
+  <li>The basemap with states shown by population with the default continuous scale and color scheme
+ <img src="https://careaga.s3.amazonaws.com/2015-07-15-pop.default.png" alt="" /></li>
+  <li>The basemap in four alternative discrete color scales with a neutral palette and polyconic projection
+<img src="https://careaga.s3.amazonaws.com/2015-07-15-scaling.png" alt="" /></li>
+</ul>
+
+<h2 id="next-up">Next up</h2>
+
+<p>I will be preparing a detailed explanation of how this works and recommendations for deciding when this type of presentation works well and what data transforms to consider.</p>
+
+<h2 id="disclaimer">Disclaimer</h2>
+<p>I am unable to answer questions relating to the use of this code under Windows.</p>
+
+<h2 id="credits">Credits</h2>
+
+<h3 id="algorithms">Algorithms</h3>
+
+<p><a href="https://rpubs.com/danielkirsch/styling-choropleth-maps">Interval scales</a></p>
+
+<h3 id="data">Data</h3>
+
+<ul>
+  <li><a href="http://1.usa.gov/1LPM7hc">Population U.S. Census</a></li>
+  <li><a href="http://1.usa.gov/1IZgFLV">Cartographic Boundary File U.S. Census</a></li>
+  <li><a href="https://www.census.gov/geo/reference/ansi_statetables.html">State postal codes</a></li>
+</ul>
+
+<h3 id="r-packages">R Packages</h3>
+<ul>
+  <li>Baptiste Auguie (2012). gridExtra: functions in Grid graphics. R package version 0.9.1. <a href="http://CRAN.R-project.org/package=gridExtra">gridExtra</a></li>
+  <li>Roger Bivand (2015). classInt: Choose Univariate Class Intervals. R package version 0.1-22.<a href="http://CRAN.R-project.org/package=classInt">classInt</a></li>
+  <li>Roger Bivand, Tim Keitt and Barry Rowlingson (2015). rgdal: Bindings for the Geospatial Data Abstraction Library. R package version 1.0-4 <a href="http://CRAN.R-project.org/package=rgdal">rgdal</a></li>
+  <li>D. Kahle and H. Wickham. ggmap: Spatial Visualization with ggplot2. The R Journal, 5(1), 144-161.  <a href="http://journal.r-project.org/archive/2013-1/kahle-wickham.pdf">ggmap</a></li>
+  <li>Duncan Temple Lang and the CRAN team (2015). RCurl: General Network (HTTP/FTP/…) Client Interface for R. R package version 1.95-4.7. <a href="http://CRAN.R-project.org/package=RCurl">RCurl</a> 
+Hadley Wickham and Francois Romain. <a href="https://github.com/hadley/dplyr">dplyr</a></li>
+  <li>Erich Neuwirth (2014). RColorBrewer: ColorBrewer Palettes. R package version 1.1-2. <a href="http://CRAN.R-project.org/package=RColorBrewer">RColorBrewer</a></li>
+  <li>R Core Team (2015). R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. <a href="http://r-project.org">grid</a></li>
+  <li>H. Wickham. ggplot2: elegant graphics for data analysis. Springer New York, 2009.  <a href="http://had.co.nz/ggplot2/book">ggplot2</a></li>
+</ul>
+
+<h2 id="data-1">Data</h2>
+<ul>
+  <li>Cartographic Boundary File: Download latest <a href="http://www.census.gov/geo/maps-data/data/cbf/cbf_state.html">cartographic boundary file for states</a> from the U.S Census, currently <a href="http://www2.census.gov/geo/tiger/GENZ2014/shp/cb_2014_us_state_5m.zip">cb_2014_us_state_5m.zip</a></li>
+  <li><a href="https://www.census.gov/geo/reference/ansi_statetables.html">State postal codes</a>, copy to csv, as follows:</li>
+</ul>
+<pre>
+	Alabama,01,AL
+	Alaska,02,AK
+	Arizona,04,AZ
+	Arkansas,05,AR
+	California,06,CA
+	Colorado,08,CO
+	Connecticut,09,CT
+	Delaware,10,DE
+	District of Columbia,11,DC
+	Florida,12,FL
+	Georgia,13,GA
+	Hawaii,15,HI
+	Idaho,16,ID
+	Illinois,17,IL
+	Indiana,18,IN
+	Iowa,19,IA
+	Kansas,20,KS
+	Kentucky,21,KY
+	Louisiana,22,LA
+	Maine,23,ME
+	Maryland,24,MD
+	Massachusetts,25,MA
+	Michigan,26,MI
+	Minnesota,27,MN
+	Mississippi,28,MS
+	Missouri,29,MO
+	Montana,30,MT
+	Nebraska,31,NE
+	Nevada,32,NV
+	New Hampshire,33,NH
+	New Jersey,34,NJ
+	New Mexico,35,NM
+	New York,36,NY
+	North Carolina,37,NC
+	North Dakota,38,ND
+	Ohio,39,OH
+	Oklahoma,40,OK
+	Oregon,41,OR
+	Pennsylvania,42,PA
+	Rhode Island,44,RI
+	South Carolina,45,SC
+	South Dakota,46,SD
+	Tennessee,47,TN
+	Texas,48,TX
+	Utah,49,UT
+	Vermont,50,VT
+	Virginia,51,VA
+	Washington,53,WA
+	West Virginia,54,WV
+	Wisconsin,55,WI
+	Wyoming,56,WY
+</pre>
+
+<h2 id="license">License</h2>
+
+<p>Copyright (c) 2015, Richard Careaga</p>
+
+<p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</p>
+
+<p>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
+
+<p>THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
+
+<h2 id="r-code">R Code</h2>
+
+<p>See the <a href="https://gist.github.com/technocrat/ddf573cd461790d0c026#file-thematic">gist</a></p>
+
+<!---
+rbitlyApi("YOUR_KEY_HERE")
+pop_source <- links_Shorten("https://www.census.gov/popest/data/national/totals/2014/files/NST_EST2014_ALLDATA.csv")$url
+-->
+
+
+</article>
+
+<aside class="related">
+  <h2>Related Posts</h2>
+  <ul class="related-posts">
+    
+      <li>
+        <h3>
+          <a href="//2015/08/03/domination/">
+            Intimidate and dominate or exterminate
+            <small><time datetime="2015-08-03T00:00:00-07:00">03 Aug 2015</time></small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="//2015/08/02/steele/">
+            The Universal Hammer
+            <small><time datetime="2015-08-02T00:00:00-07:00">02 Aug 2015</time></small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="//2015/07/30/anticipate/">
+            Anticipation
+            <small><time datetime="2015-07-30T00:00:00-07:00">30 Jul 2015</time></small>
+          </a>
+        </h3>
+      </li>
+    
+  </ul>
+</aside>
+
+      </main>
+        <a href="https://technocrat.github.io/about><img src="https://careaga.s3.amazonaws.com/technocrat.png" alt="technocrat logo" /></a>
+
+      <footer class="footer">
+        <small>
+          &copy; <time datetime="2015-08-24T22:03:47-07:00">2015</time> by Richard Careaga. All rights reserved.
+        </small>
+      </footer>
+    </div>
+  </body>
+</html>

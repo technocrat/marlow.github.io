@@ -1,0 +1,171 @@
+0000000000000000000000000000000000000000 8169b5f6ca7b97230912953cc167e280cab026fb Richard Careaga <public@careaga.net> 1430785671 -0700	clone: from https://github.com/technocrat/technocrat.github.io.git
+8169b5f6ca7b97230912953cc167e280cab026fb 7633f517f970124429ba4e8fc2274d9df0a4e196 Richard Careaga <public@careaga.net> 1430799755 -0700	commit: Implemented poole
+7633f517f970124429ba4e8fc2274d9df0a4e196 f08a63a2865a311ef25ad31af3ac95673f2727de Richard Careaga <public@careaga.net> 1430840697 -0700	commit: Added Marlow's Listener quotation
+f08a63a2865a311ef25ad31af3ac95673f2727de aea78988eb88236211f43bc6d7ffacc5d3d1609d Richard Careaga <public@careaga.net> 1430841622 -0700	rebase: checkout origin/master
+aea78988eb88236211f43bc6d7ffacc5d3d1609d 50f6c24e9ade581601e60c135c76d851c5c99067 Richard Careaga <public@careaga.net> 1430841622 -0700	rebase: Added Marlow's Listener quotation
+50f6c24e9ade581601e60c135c76d851c5c99067 50f6c24e9ade581601e60c135c76d851c5c99067 Richard Careaga <public@careaga.net> 1430841622 -0700	rebase finished: returning to refs/heads/master
+50f6c24e9ade581601e60c135c76d851c5c99067 df30fbf9db5791cd603d68295b5b43c13e1314c9 Richard Careaga <public@careaga.net> 1430841907 -0700	commit: post
+df30fbf9db5791cd603d68295b5b43c13e1314c9 7b0344ca56ba6d45559e86829eaa58c9894cc12a Richard Careaga <public@careaga.net> 1430843797 -0700	commit: Post and propagate site changes
+7b0344ca56ba6d45559e86829eaa58c9894cc12a fdd4715bf82459a3c1a334db7f17277cef24f83f Richard Careaga <public@careaga.net> 1430843989 -0700	commit: changed pagination
+fdd4715bf82459a3c1a334db7f17277cef24f83f 8f80ae64fa1cd1f56c3c376fdfe021786a03c36a Richard Careaga <public@careaga.net> 1430846514 -0700	commit: reformat
+8f80ae64fa1cd1f56c3c376fdfe021786a03c36a a3540960e65028fe4777640d30f256e6dc4ba0af Richard Careaga <public@careaga.net> 1430846948 -0700	commit: post
+a3540960e65028fe4777640d30f256e6dc4ba0af 778c8afa2de6bf385a31c67784662788d4b72d83 Richard Careaga <public@careaga.net> 1430847194 -0700	commit: post
+778c8afa2de6bf385a31c67784662788d4b72d83 778c8afa2de6bf385a31c67784662788d4b72d83 Richard Careaga <public@careaga.net> 1430875177 -0700	checkout: moving from master to master
+778c8afa2de6bf385a31c67784662788d4b72d83 cf1fdb31ad158bae870560329e53aab06b534389 Richard Careaga <public@careaga.net> 1430887217 -0700	merge origin/master: Fast-forward
+cf1fdb31ad158bae870560329e53aab06b534389 15d244f77ee6ff3fa33b29c124b3ff3af1614cc1 Richard Careaga <public@careaga.net> 1430887261 -0700	commit: corrected tagline
+15d244f77ee6ff3fa33b29c124b3ff3af1614cc1 ab7393bb09f5741d2f318c492f6bd75c6f95d033 Richard Careaga <public@careaga.net> 1430890295 -0700	commit: added center image class
+ab7393bb09f5741d2f318c492f6bd75c6f95d033 787e7f22012491a4d96d77007d516127a8fb8896 Richard Careaga <public@careaga.net> 1430891835 -0700	commit: new post
+787e7f22012491a4d96d77007d516127a8fb8896 23acf326debf853d3bfc25a9e12409dc00344202 Richard Careaga <public@careaga.net> 1430892028 -0700	commit: centered images
+23acf326debf853d3bfc25a9e12409dc00344202 acbb8135861c1c9228002e359ecfea1d4804f3e7 Richard Careaga <public@careaga.net> 1431063762 -0700	commit: create 2015-05-07-bitshort.md
+acbb8135861c1c9228002e359ecfea1d4804f3e7 af6d38053dc0c329070da6a7326ecde5bcde0506 Richard Careaga <public@careaga.net> 1431063798 -0700	commit: trying to sync
+af6d38053dc0c329070da6a7326ecde5bcde0506 609b74cbff431d56cb7c0dba51d735dd80a4fa86 Richard Careaga <public@careaga.net> 1431063802 -0700	rebase: checkout origin/master
+609b74cbff431d56cb7c0dba51d735dd80a4fa86 4220de59bffed65db6dfb144d76363049405e2fc Richard Careaga <public@careaga.net> 1431063802 -0700	rebase: create 2015-05-07-bitshort.md
+4220de59bffed65db6dfb144d76363049405e2fc 1e2892a7f10007712fc33b30c89fb184afa140ee Richard Careaga <public@careaga.net> 1431063802 -0700	rebase: trying to sync
+1e2892a7f10007712fc33b30c89fb184afa140ee 1e2892a7f10007712fc33b30c89fb184afa140ee Richard Careaga <public@careaga.net> 1431063802 -0700	rebase finished: returning to refs/heads/master
+1e2892a7f10007712fc33b30c89fb184afa140ee c0e590c43e4328ba150a53bd33830221bba4bf9a Richard Careaga <public@careaga.net> 1431201549 -0700	commit: created 2015-05-09-intent.md
+c0e590c43e4328ba150a53bd33830221bba4bf9a 3afb9e91ca77fda888f04e1a543e649dd77cf09f Richard Careaga <public@careaga.net> 1431201630 -0700	rebase: checkout origin/master
+3afb9e91ca77fda888f04e1a543e649dd77cf09f b11dc6865e770c61584feaf44f47acedd49f943f Richard Careaga <public@careaga.net> 1431201630 -0700	rebase: created 2015-05-09-intent.md
+b11dc6865e770c61584feaf44f47acedd49f943f b11dc6865e770c61584feaf44f47acedd49f943f Richard Careaga <public@careaga.net> 1431201630 -0700	rebase finished: returning to refs/heads/master
+b11dc6865e770c61584feaf44f47acedd49f943f 964ee9dd0eeaf9e332db89a0dbbcbac3c208782c Richard Careaga <public@careaga.net> 1431202768 -0700	commit: changed favicon
+964ee9dd0eeaf9e332db89a0dbbcbac3c208782c 2194c8cd99913fc8173a95419c76dfeb7816ad93 Richard Careaga <public@careaga.net> 1431220395 -0700	commit: created 2015-05-09-backlog.md
+2194c8cd99913fc8173a95419c76dfeb7816ad93 46cf7dc9d47f68a5fc2a9732665b412205014d70 Richard Careaga <public@careaga.net> 1431224262 -0700	commit: created 2015-05-09-inhouse.md
+46cf7dc9d47f68a5fc2a9732665b412205014d70 4b1f1fecad168b5ccd402b3a3d123b9ddd40c84d Richard Careaga <public@careaga.net> 1431367585 -0700	commit: create dots
+4b1f1fecad168b5ccd402b3a3d123b9ddd40c84d 951069d472231fd16444c3e0a2c8207f265835d4 Richard Careaga <public@careaga.net> 1431367590 -0700	rebase: checkout origin/master
+951069d472231fd16444c3e0a2c8207f265835d4 05f651a35c63447bb786fb2eecde5233df29c67d Richard Careaga <public@careaga.net> 1431367590 -0700	rebase: create dots
+05f651a35c63447bb786fb2eecde5233df29c67d 05f651a35c63447bb786fb2eecde5233df29c67d Richard Careaga <public@careaga.net> 1431367591 -0700	rebase finished: returning to refs/heads/master
+05f651a35c63447bb786fb2eecde5233df29c67d 5a6cf907785e34101a0696ad1b4f7931e91f556d Richard Careaga <public@careaga.net> 1431541626 -0700	commit: Created 2015-05-13-dick-lit.md
+5a6cf907785e34101a0696ad1b4f7931e91f556d db5c9201007f71baf8be706eab6efc032a09e7a7 Richard Careaga <public@careaga.net> 1431541630 -0700	rebase: checkout origin/master
+db5c9201007f71baf8be706eab6efc032a09e7a7 273447604121b0713566584309a01f1ff2c8ecba Richard Careaga <public@careaga.net> 1431541630 -0700	rebase: Created 2015-05-13-dick-lit.md
+273447604121b0713566584309a01f1ff2c8ecba 273447604121b0713566584309a01f1ff2c8ecba Richard Careaga <public@careaga.net> 1431541630 -0700	rebase finished: returning to refs/heads/master
+273447604121b0713566584309a01f1ff2c8ecba c24144b9b912d8dd21d06928167afb970b44b07e Richard Careaga <public@careaga.net> 1431541707 -0700	commit: reformat 2015-05-13-dick-lit.md
+c24144b9b912d8dd21d06928167afb970b44b07e a120955560c85429bd928589c5a7b9d044bef821 Richard Careaga <public@careaga.net> 1431541785 -0700	commit: reformat
+a120955560c85429bd928589c5a7b9d044bef821 194201be0da346bfb580a6e64f113a434712d779 Richard Careaga <public@careaga.net> 1431840544 -0700	commit: added logo
+194201be0da346bfb580a6e64f113a434712d779 cbf080f46ee0ec760a4bfb507995449f319351e8 Richard Careaga <public@careaga.net> 1431840548 -0700	rebase: checkout origin/master
+cbf080f46ee0ec760a4bfb507995449f319351e8 c9191383dc0d7229e7ebd5bc116747349fefa7d0 Richard Careaga <public@careaga.net> 1431840549 -0700	rebase: added logo
+c9191383dc0d7229e7ebd5bc116747349fefa7d0 c9191383dc0d7229e7ebd5bc116747349fefa7d0 Richard Careaga <public@careaga.net> 1431840549 -0700	rebase finished: returning to refs/heads/master
+c9191383dc0d7229e7ebd5bc116747349fefa7d0 84fee040cbb7c94c3ea35168f49bad910748e491 Richard Careaga <public@careaga.net> 1431841608 -0700	commit: added logo using html
+84fee040cbb7c94c3ea35168f49bad910748e491 3200f9b24ceda81738a657b47df79c2d94cb3c5d Richard Careaga <public@careaga.net> 1431841612 -0700	rebase: checkout origin/master
+3200f9b24ceda81738a657b47df79c2d94cb3c5d 84fee040cbb7c94c3ea35168f49bad910748e491 Richard Careaga <public@careaga.net> 1431841613 -0700	rebase: aborting
+84fee040cbb7c94c3ea35168f49bad910748e491 c9191383dc0d7229e7ebd5bc116747349fefa7d0 Richard Careaga <public@careaga.net> 1431841841 -0700	reset: moving to c9191383dc0d7229e7ebd5bc116747349fefa7d0
+c9191383dc0d7229e7ebd5bc116747349fefa7d0 5efb647e1e306bcb76bcb61eca6bc184f2cf008e Richard Careaga <public@careaga.net> 1431841847 -0700	commit: Merge remote-tracking branch 'origin/master'
+5efb647e1e306bcb76bcb61eca6bc184f2cf008e 6c33b1301ae3b336e478c58790506c4c212acae5 Richard Careaga <public@careaga.net> 1432150061 -0700	commit: created 2015-05-20-tape.md
+6c33b1301ae3b336e478c58790506c4c212acae5 62ae368ba2527fc75167ab806ced01175a682623 Richard Careaga <public@careaga.net> 1432150065 -0700	rebase: checkout origin/master
+62ae368ba2527fc75167ab806ced01175a682623 6c33b1301ae3b336e478c58790506c4c212acae5 Richard Careaga <public@careaga.net> 1432150065 -0700	rebase: aborting
+6c33b1301ae3b336e478c58790506c4c212acae5 c200722d782cfeeb77cc66a8990fb17326ad4004 Richard Careaga <public@careaga.net> 1432150257 -0700	commit (merge): Merge remote-tracking branch 'origin/master'
+c200722d782cfeeb77cc66a8990fb17326ad4004 043463f4a4151d7cc3f10a1e6ef3251246a317bb Richard Careaga <public@careaga.net> 1432491528 -0700	commit: Created 2015-05-24-robots.md
+043463f4a4151d7cc3f10a1e6ef3251246a317bb 9b9e9f533ab563af743fd74eb0ad413529530bea Richard Careaga <public@careaga.net> 1432491533 -0700	rebase: checkout origin/master
+9b9e9f533ab563af743fd74eb0ad413529530bea 26890676e02fa1030a513ba57d3c764720f9459c Richard Careaga <public@careaga.net> 1432491533 -0700	rebase: Created 2015-05-24-robots.md
+26890676e02fa1030a513ba57d3c764720f9459c 26890676e02fa1030a513ba57d3c764720f9459c Richard Careaga <public@careaga.net> 1432491533 -0700	rebase finished: returning to refs/heads/master
+26890676e02fa1030a513ba57d3c764720f9459c c032408d7c1ddd87858ca8709fe5db776a93d677 Richard Careaga <public@careaga.net> 1432843296 -0700	commit: Commit 2015-05-28-dylan.md
+c032408d7c1ddd87858ca8709fe5db776a93d677 2d7e008935bfa528028d06e214585d14108fe05b Richard Careaga <public@careaga.net> 1432843300 -0700	rebase: checkout origin/master
+2d7e008935bfa528028d06e214585d14108fe05b cda6b0207055ac60fcf75499574c8fe593d5bd3b Richard Careaga <public@careaga.net> 1432843301 -0700	rebase: Commit 2015-05-28-dylan.md
+cda6b0207055ac60fcf75499574c8fe593d5bd3b cda6b0207055ac60fcf75499574c8fe593d5bd3b Richard Careaga <public@careaga.net> 1432843301 -0700	rebase finished: returning to refs/heads/master
+cda6b0207055ac60fcf75499574c8fe593d5bd3b c4b2970e401b52c982d7ac4e1b9d8a0c1fbae625 Richard Careaga <public@careaga.net> 1432864419 -0700	commit: Created 2015-05-28-spring-fever
+c4b2970e401b52c982d7ac4e1b9d8a0c1fbae625 1dc454e3e330bc0ea0e472ad2cf633e6ec9b856d Richard Careaga <public@careaga.net> 1433265508 -0700	commit: Created 2015-06-02-rand.md
+1dc454e3e330bc0ea0e472ad2cf633e6ec9b856d d05de9d35761aba6f9b4e2ad908e920554b1849a Richard Careaga <public@careaga.net> 1433265512 -0700	rebase: checkout origin/master
+d05de9d35761aba6f9b4e2ad908e920554b1849a ccb43bb204e791e8e45c8579818919a826c4fca1 Richard Careaga <public@careaga.net> 1433265512 -0700	rebase: Created 2015-06-02-rand.md
+ccb43bb204e791e8e45c8579818919a826c4fca1 ccb43bb204e791e8e45c8579818919a826c4fca1 Richard Careaga <public@careaga.net> 1433265512 -0700	rebase finished: returning to refs/heads/master
+ccb43bb204e791e8e45c8579818919a826c4fca1 2f4b3c6bac1d382b1114ccf716411e548c791767 Richard Careaga <public@careaga.net> 1433266176 -0700	commit: moved 2015-06-02-rand.md to _posts
+2f4b3c6bac1d382b1114ccf716411e548c791767 e839636b5f51ec1b330308ac08e6c42605175be6 Richard Careaga <public@careaga.net> 1433554707 -0700	commit: created 2015-06-05-day-care
+e839636b5f51ec1b330308ac08e6c42605175be6 86b200030050bf65f04a7975d1599f03e02bc41c Richard Careaga <public@careaga.net> 1433554713 -0700	rebase: checkout origin/master
+86b200030050bf65f04a7975d1599f03e02bc41c 42087ed9ce1bf09d68d96391be7cca7bfe1c2370 Richard Careaga <public@careaga.net> 1433554713 -0700	rebase: created 2015-06-05-day-care
+42087ed9ce1bf09d68d96391be7cca7bfe1c2370 42087ed9ce1bf09d68d96391be7cca7bfe1c2370 Richard Careaga <public@careaga.net> 1433554713 -0700	rebase finished: returning to refs/heads/master
+42087ed9ce1bf09d68d96391be7cca7bfe1c2370 abd3729d78373950680fa548f2812d3daff1efd6 Richard Careaga <public@careaga.net> 1437028412 -0700	commit: Created 2015-07-15-thematic-quickstart.md
+abd3729d78373950680fa548f2812d3daff1efd6 215b161e764806bb79f6397d4bdac51986e32b6a Richard Careaga <public@careaga.net> 1437028416 -0700	rebase: checkout origin/master
+215b161e764806bb79f6397d4bdac51986e32b6a 797931a22b39e100fd0d8271525982dcba0299ce Richard Careaga <public@careaga.net> 1437028416 -0700	rebase: Created 2015-07-15-thematic-quickstart.md
+797931a22b39e100fd0d8271525982dcba0299ce 797931a22b39e100fd0d8271525982dcba0299ce Richard Careaga <public@careaga.net> 1437028416 -0700	rebase finished: returning to refs/heads/master
+797931a22b39e100fd0d8271525982dcba0299ce f775b491475f11073b39f63b00b56dcd20255e72 Richard Careaga <public@careaga.net> 1437891712 -0700	commit: Created 2015-07-25-colors.html
+f775b491475f11073b39f63b00b56dcd20255e72 5d7d139aed5da65636a0c278f3ab375ddba00a24 Richard Careaga <public@careaga.net> 1437891717 -0700	rebase: checkout origin/master
+5d7d139aed5da65636a0c278f3ab375ddba00a24 1a280b41a657f936d52a827e6cf80ffbfd7a9bfd Richard Careaga <public@careaga.net> 1437891720 -0700	rebase: Created 2015-07-25-colors.html
+1a280b41a657f936d52a827e6cf80ffbfd7a9bfd 1a280b41a657f936d52a827e6cf80ffbfd7a9bfd Richard Careaga <public@careaga.net> 1437891720 -0700	rebase finished: returning to refs/heads/master
+1a280b41a657f936d52a827e6cf80ffbfd7a9bfd 84276a541838cee5dd5712eb15cde10f99329f95 Richard Careaga <public@careaga.net> 1438581641 -0700	commit: Created 2015-08-02-steele.md
+84276a541838cee5dd5712eb15cde10f99329f95 33d57554f4fb373e65c194a9035db584bca51037 Richard Careaga <public@careaga.net> 1438581676 -0700	pull --tags --force --progress origin master:refs/remotes/origin/master: Merge made by the 'recursive' strategy.
+33d57554f4fb373e65c194a9035db584bca51037 21f09b36e74dafeaafab5160c479e097aab20a98 Richard Careaga <public@careaga.net> 1438662219 -0700	commit: Created 2015-08-03-domination.md
+21f09b36e74dafeaafab5160c479e097aab20a98 c73bc8c1df77b7a60e0c54d35ee4993dc0b59918 Richard Careaga <public@careaga.net> 1438662248 -0700	pull --tags --force --progress origin master:refs/remotes/origin/master: Merge made by the 'recursive' strategy.
+c73bc8c1df77b7a60e0c54d35ee4993dc0b59918 56c82ece3c605c7834cd100438f123c88cb2b409 Richard Careaga <public@careaga.net> 1442890677 -0700	merge origin/master: Fast-forward
+56c82ece3c605c7834cd100438f123c88cb2b409 fc5f937137c4fcc75652ca6e9b3af1d763888224 Richard Careaga <public@careaga.net> 1442890716 -0700	commit: created 2015-09-21-jss.md
+fc5f937137c4fcc75652ca6e9b3af1d763888224 11d64b4a1cef9e8049bca4780d7f4e7105d04fd6 Richard Careaga <public@careaga.net> 1446526075 -0800	commit: 2015-11-02-quora
+11d64b4a1cef9e8049bca4780d7f4e7105d04fd6 3c79a53fda686df3b6f299b2ccabcde7740f2ffe Richard Careaga <public@careaga.net> 1446526087 -0800	rebase: checkout origin/master
+3c79a53fda686df3b6f299b2ccabcde7740f2ffe 0acb5ac0e6a0057e4addc0ff42e379cb6c1c09c5 Richard Careaga <public@careaga.net> 1446526088 -0800	rebase: 2015-11-02-quora
+0acb5ac0e6a0057e4addc0ff42e379cb6c1c09c5 0acb5ac0e6a0057e4addc0ff42e379cb6c1c09c5 Richard Careaga <public@careaga.net> 1446526088 -0800	rebase finished: returning to refs/heads/master
+0acb5ac0e6a0057e4addc0ff42e379cb6c1c09c5 54d4d53a08401d692b8a4d1d66b463ac66144cb1 Richard Careaga <public@careaga.net> 1446526170 -0800	commit: fixed typo
+54d4d53a08401d692b8a4d1d66b463ac66144cb1 1279849de7d6251530959f6184040384c28f1ebd Richard Careaga <public@careaga.net> 1447096728 -0800	commit: created 2015-11-09-dylan.md
+1279849de7d6251530959f6184040384c28f1ebd c9e85914fb9f0bf166c120f5ca0b63f13bf9e9d2 Richard Careaga <public@careaga.net> 1447096735 -0800	rebase: checkout origin/master
+c9e85914fb9f0bf166c120f5ca0b63f13bf9e9d2 e3180edc02771f6ac890fbf411a2872799df31b0 Richard Careaga <public@careaga.net> 1447096736 -0800	rebase: created 2015-11-09-dylan.md
+e3180edc02771f6ac890fbf411a2872799df31b0 e3180edc02771f6ac890fbf411a2872799df31b0 Richard Careaga <public@careaga.net> 1447096736 -0800	rebase finished: returning to refs/heads/master
+e3180edc02771f6ac890fbf411a2872799df31b0 9835b02a7b9a3357081d692f51deadf2b8f1e8b0 Richard Careaga <public@careaga.net> 1447305140 -0800	commit: created 2015-11-11-filters.md
+9835b02a7b9a3357081d692f51deadf2b8f1e8b0 fd923a9ed14d12f66e737b45e7ca8e183fe0aab1 Richard Careaga <public@careaga.net> 1447305143 -0800	rebase: checkout origin/master
+fd923a9ed14d12f66e737b45e7ca8e183fe0aab1 afac9e2ccc9e477d592ce9fe6fccac5f1a656d19 Richard Careaga <public@careaga.net> 1447305144 -0800	rebase: created 2015-11-11-filters.md
+afac9e2ccc9e477d592ce9fe6fccac5f1a656d19 afac9e2ccc9e477d592ce9fe6fccac5f1a656d19 Richard Careaga <public@careaga.net> 1447305144 -0800	rebase finished: returning to refs/heads/master
+afac9e2ccc9e477d592ce9fe6fccac5f1a656d19 e3c99d0d3065b68c6d222a3739008fc12cbbb117 Richard Careaga <public@careaga.net> 1447623411 -0800	commit: created 2015-11-15-wcn.md
+e3c99d0d3065b68c6d222a3739008fc12cbbb117 ac9386ef4644677fae50f0ff94b4f51b756c2aed Richard Careaga <public@careaga.net> 1448048106 -0800	commit: 2015-11-20-quantum.md
+ac9386ef4644677fae50f0ff94b4f51b756c2aed 33e6d12df95edb980d9ad1626de57fb65fafcd68 Richard Careaga <public@careaga.net> 1448048118 -0800	rebase: checkout origin/master
+33e6d12df95edb980d9ad1626de57fb65fafcd68 8e3c7caba7c90d8689e5db3c46335ec1aca86595 Richard Careaga <public@careaga.net> 1448048118 -0800	rebase: 2015-11-20-quantum.md
+8e3c7caba7c90d8689e5db3c46335ec1aca86595 8e3c7caba7c90d8689e5db3c46335ec1aca86595 Richard Careaga <public@careaga.net> 1448048118 -0800	rebase finished: returning to refs/heads/master
+8e3c7caba7c90d8689e5db3c46335ec1aca86595 d87656d78274c650976853e03c0c8a5c38f1e2f8 Richard Careaga <public@careaga.net> 1448684548 -0800	commit: 2015-11-20-quanatum
+d87656d78274c650976853e03c0c8a5c38f1e2f8 04c6ca564eb79cbb9e807b02b5af471320181e00 Richard Careaga <public@careaga.net> 1448684558 -0800	commit: Created 2015-11-27-yaml
+04c6ca564eb79cbb9e807b02b5af471320181e00 0ad9fbc3d2764324dad662d18425c7a078adc1a3 Richard Careaga <public@careaga.net> 1448684776 -0800	commit: fixed format
+0ad9fbc3d2764324dad662d18425c7a078adc1a3 930ee5b39fefc14895e49c9e4a004f1f59625817 Richard Careaga <public@careaga.net> 1450215628 -0800	commit: created 2015-12-15-o-death
+930ee5b39fefc14895e49c9e4a004f1f59625817 51b3df601888c92893ef2eb891e9cc09f93d3fa9 Richard Careaga <public@careaga.net> 1450327185 -0800	commit: Created 2015-12-15-dog-right.md
+51b3df601888c92893ef2eb891e9cc09f93d3fa9 a591a48f1ea5b45b33f22c2a5267d7b535045f11 Richard Careaga <public@careaga.net> 1451808640 -0800	commit: Created 2016-01-03-civil-disobedience-and-beyond
+a591a48f1ea5b45b33f22c2a5267d7b535045f11 5962cb69fe0cb2bc5d9e515151738e18c1a2903a Richard Careaga <public@careaga.net> 1453263819 -0800	commit: Created 2016-01-19-birthism
+5962cb69fe0cb2bc5d9e515151738e18c1a2903a 043f5a069565b7c2be8b9f89b16897fa782d5cf2 Richard Careaga <public@careaga.net> 1453263823 -0800	rebase: checkout origin/master
+043f5a069565b7c2be8b9f89b16897fa782d5cf2 56f1a063615914ef17ad19b981dfb4db9668071d Richard Careaga <public@careaga.net> 1453263823 -0800	rebase: Created 2016-01-19-birthism
+56f1a063615914ef17ad19b981dfb4db9668071d 56f1a063615914ef17ad19b981dfb4db9668071d Richard Careaga <public@careaga.net> 1453263823 -0800	rebase finished: returning to refs/heads/master
+56f1a063615914ef17ad19b981dfb4db9668071d 5f1173883f7a2f1b4c977e0f2224ad5e4ea19c8b Richard Careaga <public@careaga.net> 1453323119 -0800	commit: Created 2016-01-20-jail
+5f1173883f7a2f1b4c977e0f2224ad5e4ea19c8b 7412ef7c262259ff64d3aa6eb74500620b405272 Richard Careaga <public@careaga.net> 1453323272 -0800	commit: Corrected line breaks
+7412ef7c262259ff64d3aa6eb74500620b405272 e1d56a78659e994706d1467f3edf520ed66922c6 Richard Careaga <public@careaga.net> 1453323343 -0800	commit: corrected spacing
+e1d56a78659e994706d1467f3edf520ed66922c6 2b43a26bb01422b90f47fb269ce992bb2e82b427 Richard Careaga <public@careaga.net> 1474865705 -0700	commit: Model of police involved
+2b43a26bb01422b90f47fb269ce992bb2e82b427 ed4ef04af8b64a17e64e5ce45767c39bc4d833a3 Richard Careaga <public@careaga.net> 1474867048 -0700	merge origin/master: Fast-forward
+ed4ef04af8b64a17e64e5ce45767c39bc4d833a3 ed4ef04af8b64a17e64e5ce45767c39bc4d833a3 Richard Careaga <public@careaga.net> 1474913611 -0700	checkout: moving from master to master
+ed4ef04af8b64a17e64e5ce45767c39bc4d833a3 dcb9517fc24d56dcd4bf66f52f8fd38a20e34366 Richard Careaga <public@careaga.net> 1474913613 -0700	rebase: checkout origin/master
+dcb9517fc24d56dcd4bf66f52f8fd38a20e34366 dcb9517fc24d56dcd4bf66f52f8fd38a20e34366 Richard Careaga <public@careaga.net> 1474913613 -0700	rebase finished: returning to refs/heads/master
+dcb9517fc24d56dcd4bf66f52f8fd38a20e34366 7b3da5412e7ad0d7e7a55dd27360a14a88355173 Richard Careaga <public@careaga.net> 1474927948 -0700	merge origin/master: Fast-forward
+7b3da5412e7ad0d7e7a55dd27360a14a88355173 39df372d24124d981294e777240d04505bda472c Richard Careaga <public@careaga.net> 1474928361 -0700	commit: removed relative permalinks
+39df372d24124d981294e777240d04505bda472c b051b6dd7693dd3fa33c8f78d9d5b85f86810f72 Richard Careaga <public@careaga.net> 1498667537 -0700	commit: Create
+b051b6dd7693dd3fa33c8f78d9d5b85f86810f72 4d5ab4f34786c7cb645367b3a8aa06675c008409 Richard Careaga <public@careaga.net> 1498668530 -0700	commit: Change S3
+4d5ab4f34786c7cb645367b3a8aa06675c008409 aa23b13d81881f59c13d296689da436f0a7c78d6 Richard Careaga <public@careaga.net> 1498669266 -0700	commit: -a
+aa23b13d81881f59c13d296689da436f0a7c78d6 364306a2bfe0eba74c46242c118babda724e6b1a Richard Careaga <public@careaga.net> 1498669515 -0700	commit: Corrected S3 refs
+364306a2bfe0eba74c46242c118babda724e6b1a 5c295a34b5437190a52de94521c371daf4fc6d69 Richard Careaga <public@careaga.net> 1498669698 -0700	commit: Test
+5c295a34b5437190a52de94521c371daf4fc6d69 688a1ef09fd78cb9fce8c76d70b0f157de9f279e Richard Careaga <public@careaga.net> 1498669895 -0700	commit: Corrected references
+688a1ef09fd78cb9fce8c76d70b0f157de9f279e 9c6584c0faac17bc5288e3057918ac8762e800cd Richard Careaga <public@careaga.net> 1498670014 -0700	commit: Date ref
+9c6584c0faac17bc5288e3057918ac8762e800cd 0b6cf729b78821184b7a45e3b580e1f30aab41e9 Richard Careaga <public@careaga.net> 1498670183 -0700	commit: Force change
+0b6cf729b78821184b7a45e3b580e1f30aab41e9 d7779937cfd3ebe34f0bff335be093cb5a30840f Richard Careaga <public@careaga.net> 1498670240 -0700	commit: typo
+d7779937cfd3ebe34f0bff335be093cb5a30840f 16ae9757731e76872627d329df5387eafff9d645 Richard Careaga <public@careaga.net> 1498670736 -0700	commit: Apologia
+16ae9757731e76872627d329df5387eafff9d645 becf1dbc0a574fadfe99864377b1c45666b828cc Richard Careaga <public@careaga.net> 1498670940 -0700	commit: Apologia2
+becf1dbc0a574fadfe99864377b1c45666b828cc 22050bc9d1a64568fd69ecf598074c5f70546b11 Richard Careaga <public@careaga.net> 1498702443 -0700	commit: Change jpeg to raw html
+22050bc9d1a64568fd69ecf598074c5f70546b11 c7221dbdfd8c155938f879da1181198361042db0 Richard Careaga <public@careaga.net> 1498702536 -0700	commit: fix raw syntax
+c7221dbdfd8c155938f879da1181198361042db0 6ae038b8cb7294fa803954b462b885186ae172e4 Richard Careaga <public@careaga.net> 1498702919 -0700	commit: pic test
+6ae038b8cb7294fa803954b462b885186ae172e4 317e8d9016a1f7890014b19392d54fcba2e5ef0c Richard Careaga <public@careaga.net> 1498703445 -0700	commit: sidebyside test
+317e8d9016a1f7890014b19392d54fcba2e5ef0c 331b87a399925387f8c130210e461f4846ff7f79 Richard Careaga <public@careaga.net> 1498704364 -0700	commit: Convert to png
+331b87a399925387f8c130210e461f4846ff7f79 e7eb696c8026e970d5b0ef747248f1afaf605f5a Richard Careaga <public@careaga.net> 1498704461 -0700	commit: typo
+e7eb696c8026e970d5b0ef747248f1afaf605f5a 6c035be9da2a31c2d0a6222ec82fbef7bbe88b23 Richard Careaga <public@careaga.net> 1498704855 -0700	commit: change to png
+6c035be9da2a31c2d0a6222ec82fbef7bbe88b23 4457c8e4c994fefd04ad48682057ce7df46cebd9 Richard Careaga <public@careaga.net> 1498706090 -0700	commit: All jpg to png
+4457c8e4c994fefd04ad48682057ce7df46cebd9 22c1464a3f5415842a158b20899932d314237b61 Richard Careaga <public@careaga.net> 1498706600 -0700	commit: Updated text
+22c1464a3f5415842a158b20899932d314237b61 5c8cfa22d527cecd2d9b2e360c6247efbe76b59b Richard Careaga <public@careaga.net> 1498796339 -0700	commit: First draft
+5c8cfa22d527cecd2d9b2e360c6247efbe76b59b dc2cee3c15088037fd578b6d4a7076b074f1692f Richard Careaga <public@careaga.net> 1498796684 -0700	commit: fixed link
+dc2cee3c15088037fd578b6d4a7076b074f1692f f5d56cee791a457f0a0d0d30e014125d6e9619f1 Richard Careaga <public@careaga.net> 1498796900 -0700	commit: fixed reference
+f5d56cee791a457f0a0d0d30e014125d6e9619f1 30a366bf80b69798a6235abb97d95b15797bc5b4 Richard Careaga <public@careaga.net> 1498966137 -0500	commit: First draft
+30a366bf80b69798a6235abb97d95b15797bc5b4 719054792c8cf608dd3d1818a68c3fc97fa16420 Richard Careaga <public@careaga.net> 1498966302 -0500	commit: killed html
+719054792c8cf608dd3d1818a68c3fc97fa16420 0a8e091d4b6a1b9243a6836925cc52b3f2c1bd1f Richard Careaga <public@careaga.net> 1498966394 -0500	commit: Name change
+0a8e091d4b6a1b9243a6836925cc52b3f2c1bd1f 7cdf7702159af8be43b243e6846b610632ea27e8 Richard Careaga <public@careaga.net> 1498966666 -0500	commit: Corrected file link
+7cdf7702159af8be43b243e6846b610632ea27e8 de71a45be07c3b95f74d6cd8a5b5f1269b69eeb0 Richard Careaga <public@careaga.net> 1498966783 -0500	commit: Ending
+de71a45be07c3b95f74d6cd8a5b5f1269b69eeb0 22953d882ef7c66a9f60b42c9300829cc819170e Richard Careaga <public@careaga.net> 1498967008 -0500	commit: Changed link
+22953d882ef7c66a9f60b42c9300829cc819170e 48e01150708b4226c3b31448871bcc727b4c08c2 Richard Careaga <public@careaga.net> 1498967012 -0500	rebase: checkout origin/master
+48e01150708b4226c3b31448871bcc727b4c08c2 48e01150708b4226c3b31448871bcc727b4c08c2 Richard Careaga <public@careaga.net> 1498967012 -0500	rebase finished: returning to refs/heads/master
+48e01150708b4226c3b31448871bcc727b4c08c2 769a89679c4ae76429d5050edf2acedae6ee8136 Richard Careaga <public@careaga.net> 1498967214 -0500	commit: link ref
+769a89679c4ae76429d5050edf2acedae6ee8136 a62d634c24180e86a2c824325a429f6e972f16a3 Richard Careaga <public@careaga.net> 1498967527 -0500	commit: Correct link ref
+a62d634c24180e86a2c824325a429f6e972f16a3 502a3401a63a534a0c2baccac0a45baef00a28d4 Richard Careaga <public@careaga.net> 1498967596 -0500	commit: Corrected link
+502a3401a63a534a0c2baccac0a45baef00a28d4 83c4b989f3509bea7fc062e61df3c6a6af09f6a6 Richard Careaga <public@careaga.net> 1498967635 -0500	commit: Link fix
+83c4b989f3509bea7fc062e61df3c6a6af09f6a6 1eab073fc061d370d15c40d622ed0059d23b3d87 Richard Careaga <public@careaga.net> 1498967707 -0500	commit: Syntax link
+1eab073fc061d370d15c40d622ed0059d23b3d87 9f5a648be97c0465f75f323d64e5053b082638b8 Richard Careaga <public@careaga.net> 1499394400 -0700	commit: First draft
+9f5a648be97c0465f75f323d64e5053b082638b8 c081bbb755252d458fe61d3494ce58b6b2ca5712 Richard Careaga <public@careaga.net> 1501377800 -0700	commit: Created post
+c081bbb755252d458fe61d3494ce58b6b2ca5712 5d6670096c6578a29237a051ea23fe89f86c1699 Richard Careaga <public@careaga.net> 1501381148 -0700	commit: initial draft
+5d6670096c6578a29237a051ea23fe89f86c1699 c9aca1b51cb8ab98ae6103dc366692ebe5b0aff5 Richard Careaga <public@careaga.net> 1501381549 -0700	commit: added citation to Manchester
+c9aca1b51cb8ab98ae6103dc366692ebe5b0aff5 6716d0adf80844423b9da98cb3bb8f1e9bf6876f Richard Careaga <public@careaga.net> 1502074858 -0700	commit: Initial drafts
+6716d0adf80844423b9da98cb3bb8f1e9bf6876f 2b5f1c4352ac346beeea0945ebec79966ec072ae Richard Careaga <public@careaga.net> 1502075216 -0700	commit: initial
+2b5f1c4352ac346beeea0945ebec79966ec072ae d4e8bae2d12cd0a05898c02ad70ade77ee0678ca Richard Careaga <public@careaga.net> 1515810550 -0800	commit: initial post
+d4e8bae2d12cd0a05898c02ad70ade77ee0678ca 4489af07f536d669f2cab0e8f4d3347aa2426d88 Richard Careaga <public@careaga.net> 1515811046 -0800	commit: Initial post
+4489af07f536d669f2cab0e8f4d3347aa2426d88 4489af07f536d669f2cab0e8f4d3347aa2426d88 Richard Careaga <public@careaga.net> 1515811159 -0800	checkout: moving from master to master
+4489af07f536d669f2cab0e8f4d3347aa2426d88 4489af07f536d669f2cab0e8f4d3347aa2426d88 Richard Careaga <public@careaga.net> 1515819480 -0800	checkout: moving from master to master
+4489af07f536d669f2cab0e8f4d3347aa2426d88 d4e8bae2d12cd0a05898c02ad70ade77ee0678ca Richard Careaga <public@careaga.net> 1517085203 -0800	reset: moving to HEAD^
